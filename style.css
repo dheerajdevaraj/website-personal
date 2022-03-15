@@ -221,3 +221,10 @@ line-height: 23px;
       height: 50px;
     }
 }
+@media screen and (max-width: 570px)
+ {
+     .contact .margin-contact
+     {
+       margin-bottom: 12px;
+     }
+} 
