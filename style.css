@@ -18,7 +18,7 @@ h1,p
 .navbar-nav a
 {
     color: #414755;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 23px;
 }
 
@@ -55,6 +55,7 @@ line-height: 20px;
     color: #fff;
     border-radius: 32px;
     width: 244px;
+    font-size: 14px;
     height: 60px;
     box-shadow: rgba(17, 12, 46, 0.2) 0px 30px 100px 0px;
 }
