@@ -40,14 +40,14 @@ h1,p
 /**********************/
 
 .home h1{
-    font-size: 4.7rem;
-line-height: 85px;
+    font-size: 4.5rem;
+line-height: 78px;
 
 }
 .home p
 {
-font-size: 20px;
-line-height: 23px;
+font-size: 18px;
+line-height: 20px;
 }
 .home .btn, .contact .btn, .resume .btn
 {
