@@ -1,6 +1,6 @@
 body
 {
-    font-family: Roboto;
+    font-family: poppins;
     background-color: #FAFAFF;
 }
 h1,p
@@ -51,7 +51,7 @@ line-height: 23px;
 }
 .home .btn, .contact .btn, .resume .btn
 {
-    background: #888CEC;
+    background: #8873EF;
     color: #fff;
     border-radius: 32px;
     width: 244px;
@@ -60,7 +60,7 @@ line-height: 23px;
 }
 .home .btn:hover,.contact .btn:hover, .resume .btn:hover
 {
-    background-color: #4E508F;
+    background-color: #0B1320;
 }
 .home .img-fluid.icon1
 {
@@ -69,7 +69,7 @@ line-height: 23px;
 }
 .services
 {
-    background-color: #F4F7FA;
+    background-color: #F2F4F8;
 }
 .services .card
 {
@@ -148,7 +148,7 @@ line-height: 23px;
   }
   .skills
   {
-      background-color: #F4F7FA;
+      background-color: #F2F4F8;
   }
   
   .progress{
@@ -184,7 +184,7 @@ line-height: 23px;
   }
  .contact
  {
-     background-color: #888CEC;
+     background-color: #8873EF;
  }
  .sm .iconify
 {
