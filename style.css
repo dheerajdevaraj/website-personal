@@ -131,22 +131,46 @@ line-height: 20px;
     transition:0.3s;
 
   }
-  .portfolio .carousel-caption
-  {
-      background-color: #888CEC;
-      border-radius: 10px;
-      opacity: 0.8;
-
+  .portfolio .card{
+    
+    display: flex;
+    color: #564B88;
+    align-items: center;
+    border: 16px solid white;
+    height: 450px;
   }
-  .portfolio .carousel-control-prev-icon
-  {
-      background-color: #000;
-      opacity: 0.8;
+  .portfolio .card h4{
+    font-weight: 600;
   }
-  .portfolio .carousel-control-next-icon
-  {
-      background-color: #000;
-      opacity: 0.8;
+  .portfolio .card.school{
+    background-color: #FFF8F0;
+  }
+  .portfolio .card.business-card{
+    background-color: #FFEFF3;
+  }
+  .portfolio .card.spotiyo{
+    background-color: #E9F5F3;
+  }
+  .portfolio .card.brightaira{
+    background-color: #EFEEFF;
+  }
+  .card-img-top.school{
+    width: 300px;
+  }
+  .card-img-top.business-card{
+    width: 260px;
+    margin-top: 42px;
+    margin-bottom: 40px;
+  }
+  .card-img-top.spotiyo{
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .card-img-top.brightaira{
+    width: 220px;
+    margin-top: 50px;
+    margin-bottom: 30px;
   }
   .skills
   {
